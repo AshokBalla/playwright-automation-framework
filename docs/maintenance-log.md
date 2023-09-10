@@ -1,0 +1,167 @@
+# Maintenance Log
+
+- Initial framework setup for playwright-tests
+- Add baseline documentation and repository hygiene for playwright-tests
+- feat(playwright-tests): add reusable workflow support for webkit authentication
+- docs(playwright-tests): document execution behavior for shopping cart api sync
+- chore(playwright-tests): extend environment controls for accessibility scan notes
+- ci(playwright-tests): publish diagnostics for parallel worker fixture
+- refactor(playwright-tests): refresh reusable data for network mocking example
+- chore(playwright-tests): record maintenance update for download audit trail
+- test(playwright-tests): add smoke coverage for chromium authentication
+- test(playwright-tests): expand regression suite for firefox authentication
+- feat(playwright-tests): add reusable workflow support for webkit authentication
+- docs(playwright-tests): document execution behavior for shopping cart api sync
+- chore(playwright-tests): extend environment controls for accessibility scan notes
+- ci(playwright-tests): publish diagnostics for parallel worker fixture
+- refactor(playwright-tests): refresh reusable data for network mocking example
+- chore(playwright-tests): record maintenance update for download audit trail
+- test(playwright-tests): add smoke coverage for chromium authentication
+- test(playwright-tests): expand regression suite for firefox authentication
+- feat(playwright-tests): add reusable workflow support for webkit authentication
+- docs(playwright-tests): document execution behavior for shopping cart api sync
+- chore(playwright-tests): extend environment controls for accessibility scan notes
+- ci(playwright-tests): publish diagnostics for parallel worker fixture
+- refactor(playwright-tests): refresh reusable data for network mocking example
+- chore(playwright-tests): record maintenance update for download audit trail
+- test(playwright-tests): add smoke coverage for chromium authentication
+- test(playwright-tests): expand regression suite for firefox authentication
+- feat(playwright-tests): add reusable workflow support for webkit authentication
+- docs(playwright-tests): document execution behavior for shopping cart api sync
+- chore(playwright-tests): extend environment controls for accessibility scan notes
+- ci(playwright-tests): publish diagnostics for parallel worker fixture
+- refactor(playwright-tests): refresh reusable data for network mocking example
+- chore(playwright-tests): record maintenance update for download audit trail
+- test(playwright-tests): add smoke coverage for chromium authentication
+- test(playwright-tests): expand regression suite for firefox authentication
+- feat(playwright-tests): add reusable workflow support for webkit authentication
+- docs(playwright-tests): document execution behavior for shopping cart api sync
+- chore(playwright-tests): extend environment controls for accessibility scan notes
+- ci(playwright-tests): publish diagnostics for parallel worker fixture
+- refactor(playwright-tests): refresh reusable data for network mocking example
+- chore(playwright-tests): record maintenance update for download audit trail
+- test(playwright-tests): add smoke coverage for chromium authentication
+- test(playwright-tests): expand regression suite for firefox authentication
+- feat(playwright-tests): add reusable workflow support for webkit authentication
+- docs(playwright-tests): document execution behavior for shopping cart api sync
+- chore(playwright-tests): extend environment controls for accessibility scan notes
+- ci(playwright-tests): publish diagnostics for parallel worker fixture
+- refactor(playwright-tests): refresh reusable data for network mocking example
+- chore(playwright-tests): record maintenance update for download audit trail
+- test(playwright-tests): add smoke coverage for chromium authentication
+- test(playwright-tests): expand regression suite for firefox authentication
+- feat(playwright-tests): add reusable workflow support for webkit authentication
+- docs(playwright-tests): document execution behavior for shopping cart api sync
+- chore(playwright-tests): extend environment controls for accessibility scan notes
+- ci(playwright-tests): publish diagnostics for parallel worker fixture
+- refactor(playwright-tests): refresh reusable data for network mocking example
+- chore(playwright-tests): record maintenance update for download audit trail
+- test(playwright-tests): add smoke coverage for chromium authentication
+- test(playwright-tests): expand regression suite for firefox authentication
+- feat(playwright-tests): add reusable workflow support for webkit authentication
+- docs(playwright-tests): document execution behavior for shopping cart api sync
+- chore(playwright-tests): extend environment controls for accessibility scan notes
+- ci(playwright-tests): publish diagnostics for parallel worker fixture
+- refactor(playwright-tests): refresh reusable data for network mocking example
+- chore(playwright-tests): record maintenance update for download audit trail
+- test(playwright-tests): add smoke coverage for chromium authentication
+- test(playwright-tests): expand regression suite for firefox authentication
+- feat(playwright-tests): add reusable workflow support for webkit authentication
+- docs(playwright-tests): document execution behavior for shopping cart api sync
+- chore(playwright-tests): extend environment controls for accessibility scan notes
+- ci(playwright-tests): publish diagnostics for parallel worker fixture
+- refactor(playwright-tests): refresh reusable data for network mocking example
+- chore(playwright-tests): record maintenance update for download audit trail
+- test(playwright-tests): add smoke coverage for chromium authentication
+- test(playwright-tests): expand regression suite for firefox authentication
+- feat(playwright-tests): add reusable workflow support for webkit authentication
+- docs(playwright-tests): document execution behavior for shopping cart api sync
+- chore(playwright-tests): extend environment controls for accessibility scan notes
+- ci(playwright-tests): publish diagnostics for parallel worker fixture
+- refactor(playwright-tests): refresh reusable data for network mocking example
+- chore(playwright-tests): record maintenance update for download audit trail
+- test(playwright-tests): add smoke coverage for chromium authentication
+- test(playwright-tests): expand regression suite for firefox authentication
+- feat(playwright-tests): add reusable workflow support for webkit authentication
+- docs(playwright-tests): document execution behavior for shopping cart api sync
+- chore(playwright-tests): extend environment controls for accessibility scan notes
+- ci(playwright-tests): publish diagnostics for parallel worker fixture
+- refactor(playwright-tests): refresh reusable data for network mocking example
+- chore(playwright-tests): record maintenance update for download audit trail
+- test(playwright-tests): add smoke coverage for chromium authentication
+- test(playwright-tests): expand regression suite for firefox authentication
+- feat(playwright-tests): add reusable workflow support for webkit authentication
+- docs(playwright-tests): document execution behavior for shopping cart api sync
+- chore(playwright-tests): extend environment controls for accessibility scan notes
+- ci(playwright-tests): publish diagnostics for parallel worker fixture
+- refactor(playwright-tests): refresh reusable data for network mocking example
+- chore(playwright-tests): record maintenance update for download audit trail
+- test(playwright-tests): add smoke coverage for chromium authentication
+- test(playwright-tests): expand regression suite for firefox authentication
+- feat(playwright-tests): add reusable workflow support for webkit authentication
+- docs(playwright-tests): document execution behavior for shopping cart api sync
+- chore(playwright-tests): extend environment controls for accessibility scan notes
+- ci(playwright-tests): publish diagnostics for parallel worker fixture
+- refactor(playwright-tests): refresh reusable data for network mocking example
+- chore(playwright-tests): record maintenance update for download audit trail
+- test(playwright-tests): add smoke coverage for chromium authentication
+- test(playwright-tests): expand regression suite for firefox authentication
+- feat(playwright-tests): add reusable workflow support for webkit authentication
+- docs(playwright-tests): document execution behavior for shopping cart api sync
+- chore(playwright-tests): extend environment controls for accessibility scan notes
+- ci(playwright-tests): publish diagnostics for parallel worker fixture
+- refactor(playwright-tests): refresh reusable data for network mocking example
+- chore(playwright-tests): record maintenance update for download audit trail
+- test(playwright-tests): add smoke coverage for chromium authentication
+- test(playwright-tests): expand regression suite for firefox authentication
+- feat(playwright-tests): add reusable workflow support for webkit authentication
+- docs(playwright-tests): document execution behavior for shopping cart api sync
+- chore(playwright-tests): extend environment controls for accessibility scan notes
+- ci(playwright-tests): publish diagnostics for parallel worker fixture
+- refactor(playwright-tests): refresh reusable data for network mocking example
+- chore(playwright-tests): record maintenance update for download audit trail
+- test(playwright-tests): add smoke coverage for chromium authentication
+- test(playwright-tests): expand regression suite for firefox authentication
+- feat(playwright-tests): add reusable workflow support for webkit authentication
+- docs(playwright-tests): document execution behavior for shopping cart api sync
+- chore(playwright-tests): extend environment controls for accessibility scan notes
+- ci(playwright-tests): publish diagnostics for parallel worker fixture
+- refactor(playwright-tests): refresh reusable data for network mocking example
+- chore(playwright-tests): record maintenance update for download audit trail
+- test(playwright-tests): add smoke coverage for chromium authentication
+- test(playwright-tests): expand regression suite for firefox authentication
+- feat(playwright-tests): add reusable workflow support for webkit authentication
+- docs(playwright-tests): document execution behavior for shopping cart api sync
+- chore(playwright-tests): extend environment controls for accessibility scan notes
+- ci(playwright-tests): publish diagnostics for parallel worker fixture
+- refactor(playwright-tests): refresh reusable data for network mocking example
+- chore(playwright-tests): record maintenance update for download audit trail
+- test(playwright-tests): add smoke coverage for chromium authentication
+- test(playwright-tests): expand regression suite for firefox authentication
+- feat(playwright-tests): add reusable workflow support for webkit authentication
+- docs(playwright-tests): document execution behavior for shopping cart api sync
+- chore(playwright-tests): extend environment controls for accessibility scan notes
+- ci(playwright-tests): publish diagnostics for parallel worker fixture
+- refactor(playwright-tests): refresh reusable data for network mocking example
+- chore(playwright-tests): record maintenance update for download audit trail
+- test(playwright-tests): add smoke coverage for chromium authentication
+- test(playwright-tests): expand regression suite for firefox authentication
+- feat(playwright-tests): add reusable workflow support for webkit authentication
+- docs(playwright-tests): document execution behavior for shopping cart api sync
+- chore(playwright-tests): extend environment controls for accessibility scan notes
+- ci(playwright-tests): publish diagnostics for parallel worker fixture
+- refactor(playwright-tests): refresh reusable data for network mocking example
+- chore(playwright-tests): record maintenance update for download audit trail
+- test(playwright-tests): add smoke coverage for chromium authentication
+- test(playwright-tests): expand regression suite for firefox authentication
+- feat(playwright-tests): add reusable workflow support for webkit authentication
+- docs(playwright-tests): document execution behavior for shopping cart api sync
+- chore(playwright-tests): extend environment controls for accessibility scan notes
+- ci(playwright-tests): publish diagnostics for parallel worker fixture
+- refactor(playwright-tests): refresh reusable data for network mocking example
+- chore(playwright-tests): record maintenance update for download audit trail
+- test(playwright-tests): add smoke coverage for chromium authentication
+- test(playwright-tests): expand regression suite for firefox authentication
+- feat(playwright-tests): add reusable workflow support for webkit authentication
+- docs(playwright-tests): document execution behavior for shopping cart api sync
+- chore(playwright-tests): extend environment controls for accessibility scan notes
