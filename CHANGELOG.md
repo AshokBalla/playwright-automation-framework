@@ -1,0 +1,23 @@
+# Changelog
+
+- Initial framework bootstrap.
+- Improved support for download audit trail.
+- Improved support for download audit trail.
+- Improved support for download audit trail.
+- Improved support for download audit trail.
+- Improved support for download audit trail.
+- Improved support for download audit trail.
+- Improved support for download audit trail.
+- Improved support for download audit trail.
+- Improved support for download audit trail.
+- Improved support for download audit trail.
+- Improved support for download audit trail.
+- Improved support for download audit trail.
+- Improved support for download audit trail.
+- Improved support for download audit trail.
+- Improved support for download audit trail.
+- Improved support for download audit trail.
+- Improved support for download audit trail.
+- Improved support for download audit trail.
+- Improved support for download audit trail.
+- Improved support for download audit trail.

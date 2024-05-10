@@ -1,0 +1,34 @@
+{
+  "name": "playwrighttest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js",
+    "test:regression": "cucumber-js --tags \"@Regression\"",
+    "test:validation": "cucumber-js --tags \"@Validation\"",
+    "test:parallel": "cucumber-js --parallel 2",
+    "test:all-tags-parallel": "cucumber-js --tags \"@Regression or @Validation\" --parallel 2",
+    "test:report": "cucumber-js --format html:cucumber-report.html",
+    "test:report-parallel": "cucumber-js --parallel 2 --format html:cucumber-report.html",
+    "playwright": "playwright test",
+    "allure:generate": "allure generate ./allure-results --clean -o allure-report",
+    "allure:open": "allure open allure-report",
+    "allure:test": "playwright test --reporter=allure-playwright",
+    "allure:report": "npm run allure:generate && npm run allure:open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.3",
+    "allure-commandline": "^2.34.0",
+    "allure-playwright": "^3.2.1"
+  },
+  "dependencies": {
+    "@cucumber/cucumber": "^11.2.0",
+    "exceljs": "^4.4.0"
+  }
+}
